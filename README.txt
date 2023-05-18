@@ -10,6 +10,7 @@ El repositorio se organiza en carpetas, donde cada carpeta representa un problem
 
 - **`solution.js`**: Un archivo JavaScript que contiene la solución al problema.
 
+ **`problem-solution.md`**: Un archivo markdown que proporciona informacion de como solucione el problema, para que sirva de referncia a otras personas.
 
 ## Contribuciones
 
