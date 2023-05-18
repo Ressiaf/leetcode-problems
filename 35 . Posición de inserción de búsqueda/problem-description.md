@@ -21,7 +21,6 @@ Entrada: nums = [1,3,5,6], destino = 7
  
 
 Restricciones:
-
 1 <= nums.length <= 104
 -104 <= nums[i] <= 104
 numscontiene valores distintos ordenados en orden ascendente .
